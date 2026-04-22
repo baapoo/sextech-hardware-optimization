@@ -31,4 +31,4 @@ The next generation of SexTech will not be won by software alone. It will be won
 
 ---
 
-**Keywords:** `IoT Wearables`, `Power Density`, `Motor Control`, `SexTech Hardware`, `Embedded Systems`, `[vovoho.com](https://vovoho.com)`
+**Keywords:** `IoT Wearables`, `Power Density`, `Motor Control`, `SexTech Hardware`, `Embedded Systems`, [vovoho.com](https://vovoho.com)
